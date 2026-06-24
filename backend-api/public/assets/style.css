@@ -1,0 +1,47 @@
+body {
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+}
+
+table {
+    margin: 20px auto;
+    border-collapse: collapse;
+    background: white;
+    width: 80%;
+}
+
+table, th, td {
+    border: 1px solid #333;
+}
+
+th {
+    background-color: #4e54c8;
+    color: white;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: yellow;
+}
+
+a:hover {
+    color: orangered;
+}
+
+img {
+    border-radius: 8px;
+}
+a {
+    text-shadow: 1px 1px 3px black;
+}
