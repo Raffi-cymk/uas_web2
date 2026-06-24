@@ -88,4 +88,4 @@ Menampilkan proses penambahan data anggota beserta notifikasi bahwa data berhasi
 # 🔗 Link Demo
 
 **Demo Aplikasi:**
-*(Tambahkan link demo di sini setelah tersedia.)*
+https://youtu.be/3r2H_kk8yJA?si=eQs6uN1BLOh8UT_A
